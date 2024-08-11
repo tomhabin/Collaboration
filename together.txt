@@ -1,0 +1,5 @@
+<h> My capstone project </h>
+
+<p> In my capstone project, I am looking at public transport data from the Leeds metropolitan area. Through data analysis, I aim to see which postcodes could benefit from more public transport services.</p>
+<p> I will be looking through Leeds Travel To Work Survey data and also traffic volume data from various cameras in the Leeds area.</p>
+<p> I hope you enjoy it! (Tom Habin) </p>
